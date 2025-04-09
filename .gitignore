@@ -1,0 +1,41 @@
+# Environnement virtuel
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers temporaires d'OS
+.DS_Store
+Thumbs.db
+
+# Logs, bases temporaires
+*.log
+*.sqlite3
+
+# Fichiers IDE/éditeurs
+.vscode/
+.cursor/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archives, sauvegardes
+old/
+*.zip
+*.tar.gz
+*.bak
+*.tmp
+
+# Configs perso
+.env
+
+# Dossiers de contenu : 
+input_files/
+Output_files/
+install/
+outputes/
+"V2 - automatic"/
